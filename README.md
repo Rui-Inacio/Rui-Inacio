@@ -30,17 +30,3 @@ I am currently focused on backend, frontend and database development of web and 
 
 ##### To reach me or learn more about my other skills, check my LinkedIn page
 [LinkedIn](https://www.linkedin.com/in/ruinacio17-21/ "LinkedIn")
-
-
-- 👋 Hi, I’m @Rui-Inacio
-## Recent grad of Software Engineering
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-<!---
-Rui-Inacio/Rui-Inacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
