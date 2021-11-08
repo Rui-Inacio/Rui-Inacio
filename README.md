@@ -33,7 +33,7 @@ I am currently focused on backend, frontend and database development of web and 
 ### Personal Projects
 
 - [Auctions Web Application](https://github.com/Rui-Inacio/auctions_laravel/ "Auctions") - Buy and sell items trough auctions system (**Laravel** and **Vue.js**)
-- [Personal Home Page](https://github.com/Rui-Inacio/landing-page/ "LandingPage") [WOK] - Personal home page with various usefull components (**Vue.js** and **Javascript**)
+- [Personal Home Page](https://github.com/Rui-Inacio/landing-page/ "LandingPage") [WIP] - Personal home page with various usefull components (**Vue.js** and **Javascript**)
 - [Minesweeper](https://github.com/Rui-Inacio/MinesFinder/ "Minesweeper") - Minesweeper game (**Java**)
 ----------
 
