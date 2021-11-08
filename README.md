@@ -16,7 +16,7 @@ I am currently focused on backend, frontend and database development of web and 
 ### Current best skills
 
 - Database management and administration (SQL, MySQL)
-- Java - 4 years experience
+- Java and Java EE - 4 years experience
 - Javascript - 3 years experience
 - PhP - 2 years experience
 - .Net - 1 year experience
@@ -34,7 +34,6 @@ I am currently focused on backend, frontend and database development of web and 
 
 - [Auctions Web Application](https://github.com/Rui-Inacio/auctions_laravel/ "Auctions") - Buy and sell items trough auctions system (**Laravel** and **Vue.js**)
 - [Personal Home Page](https://github.com/Rui-Inacio/landing-page/ "LandingPage") [WOK] - Personal home page with various usefull components (**Vue.js** and **Javascript**)
-- [Construction Materials](https://github.com/Rui-Inacio/Projeto_DAE/ "ConstructionProject") - Backend of Construction Material's Simulator for a type of structure (**JAVA EE**)
 - [Minesweeper](https://github.com/Rui-Inacio/MinesFinder/ "Minesweeper") - Minesweeper game (**Java**)
 ----------
 
