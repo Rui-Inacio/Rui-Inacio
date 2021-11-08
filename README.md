@@ -8,7 +8,7 @@ With my degree I have learned various programming languages and programming skil
 as well as core fundamentals of Software Architecture.
 I have developed projects regarding Artificial Inteligence and Enterprise Management, created servers to communicate with clients, developed scripts for Operating Systems and some other small projects with IoT technologies, among others.
 
-##### To reach me or learn more about my other skills, check my LinkedIn page
+##### To reach me or learn more about my other skills, check my  [LinkedIn](https://www.linkedin.com/in/ruinacio17-21/ "LinkedIn") page
 
 ### Focus
 I am currently focused on backend, frontend and database development of web and mobile applications.
