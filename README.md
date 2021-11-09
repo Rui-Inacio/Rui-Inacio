@@ -23,6 +23,8 @@ I am currently focused on backend, frontend and database development of web and 
 - Laravel framework - 2 years
 - Vue framework - 2 years
 
+(The experience is based on school years as well)
+
 ### Currently learning
 
 - .Net core
