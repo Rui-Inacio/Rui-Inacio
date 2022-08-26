@@ -1,5 +1,5 @@
 
-![profile](https://media-exp1.licdn.com/dms/image/C4D03AQFYOcOfyoUALA/profile-displayphoto-shrink_800_800/0/1619614915833?e=1641427200&v=beta&t=Y7Yjn-70VgocHM0fX-qLXzoeTeIxm0oSLNtu3ZC9Akg "profile")
+![profile](https://media-exp1.licdn.com/dms/image/C4D03AQFYOcOfyoUALA/profile-displayphoto-shrink_800_800/0/1619614915833?e=1666828800&v=beta&t=DPdrwxZR2SVQVik0yFK-8-4Yxc7YzGkeIwJGlMrMT2c "profile")
 
 ## [Rui Inácio](https://www.linkedin.com/in/ruinacio17-21/ "LinkedIn") - Software Engineer
 
